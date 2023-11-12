@@ -9,7 +9,7 @@ const GetStarted = () => {
           <span className="secondaryText">
             Subscribe and find super attractive price quotes from us.
             <br />
-            Find your residence soon
+            Find your residence soon.
           </span>
           <button className="button" href>
             <a href="mailto:sabari.tester007@gmail.com">Get Started</a>
