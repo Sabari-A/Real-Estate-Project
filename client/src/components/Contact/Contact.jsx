@@ -13,7 +13,7 @@ const Contact = () => {
           <span className="primaryText">Easy to contact us</span>
           <span className="secondaryText">
             We always ready to help by providing the best services for you. We
-            believe a good place to live can make your life better{" "}
+            believe a good place to live can make your life better.{" "}
           </span>
 
           <div className="flexColStart contactModes">
@@ -26,7 +26,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Call</span>
-                    <span className="secondaryText">021 123 145 14</span>
+                    <span className="secondaryText">8110833493</span>
                   </div>
                 </div>
                 <div className="flexCenter button">Call now</div>

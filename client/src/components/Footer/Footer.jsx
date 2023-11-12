@@ -15,7 +15,7 @@ const Footer = () => {
 
         <div className="flexColStart f-right">
           <span className="primaryText">Information</span>
-          <span className="secondaryText">Sabari, Amrita, India</span>
+          <span className="secondaryText">Developed by Sabari, Amrita University, India</span>
           <div className="flexCenter f-menu">
             <span>Property</span>
             <span>Services</span>
